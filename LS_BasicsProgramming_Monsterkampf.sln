@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LS_BasicsProgramming_Monsterkampf", "LS_BasicsProgramming_Monsterkampf.csproj", "{EA23E4B1-E49E-46A2-B19B-6F06DE8C78E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA23E4B1-E49E-46A2-B19B-6F06DE8C78E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA23E4B1-E49E-46A2-B19B-6F06DE8C78E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA23E4B1-E49E-46A2-B19B-6F06DE8C78E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA23E4B1-E49E-46A2-B19B-6F06DE8C78E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
